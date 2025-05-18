@@ -1,7 +1,9 @@
+![logo](https://github.com/Ghostwritter14/Ghostwritter14/blob/main/banner2.gif)
+
 <h1 align="center">Hi 👋, I'm Soham Chakraborty</h1>
 <h3 align="center">Building tools that think, scale, and sometimes even surprise.</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostwritter14&label=Profile%20views&color=0e75b6&style=flat" alt="ghostwritter14" /> </p>
 
