@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ghostwritter14/Ghostwritter14/blob/main/banner2.gif)
 
-<h1 align="center">Hi 👋, I'm Soham Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm Soham Chakraborty a Full Stack Developer based in UK</h1>
 <h3 align="center">Building tools that think, scale, and sometimes even surprise.</h3>
 
 <img align="right" alt="coding" width="400" src="coding.gif">
