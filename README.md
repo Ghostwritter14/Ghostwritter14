@@ -15,7 +15,7 @@
         Passionate about Artificial Intelligence, Computer Vision, and High Performance Computing.<br>
         I thrive on engineering high-performance systems and scalable platforms tailored for the dynamic and data-intensive world of financial services and fintech.<br> 
         With a keen interest in quantitative finance and cutting-edge technologies I’m driven by tackling complex technical challenges where milliseconds matter and precision is paramount.<br>
-        Always eager to tackle complex challenges and deliver value through technology.
+        I am always eager to tackle complex challenges and deliver value through technology.
       </p>
     </td>
   </tr>
